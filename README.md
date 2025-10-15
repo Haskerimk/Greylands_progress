@@ -6,8 +6,8 @@ Progress updates i'll upload here for the game
 # Log:
 Today I started messing around with Terrain3D which is excellent for creating the game's huge map, it has chunking too. I also came up with the idea of using faction symbols as a loading screen icon which look really cool. Tomorrow i'll work on one of the Enemy models and continue doing concept art and the terrain addon.
 
-![Model][Images/2025_10_15_1.png]
-![Gif][Images/Loading_icon_15_10_2025.gif]
+![](Images/2025_10_15_1.png)
+![](Images/Loading_icon_15_10_2025.gif)
 
 ## Main checklist
 * 
@@ -27,5 +27,5 @@ Today I started messing around with Terrain3D which is excellent for creating th
   1. Optimization (Occlusion culling, baked lighting, AO maps, Pathfinding and Animations) -- 0%
 
  ## Current priority and work in progress:
-     Player model
-     Model of Enemy_1
+Player model -- 0%
+Model of Enemy_1 -- 90%
