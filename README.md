@@ -1,13 +1,10 @@
 # Greylands_progress
 Progress updates i'll upload here for the game
 
-# Todays progress log - 15. October 2025
+# Todays progress log - 26. October 2025
 
 # Log:
-Today I started messing around with Terrain3D which is excellent for creating the game's huge map, it has chunking too. I also came up with the idea of using faction symbols as a loading screen icon which look really cool. Tomorrow i'll work on one of the Enemy models and continue doing concept art and the terrain addon.
-
-![](Images/2025_10_15_1.png)
-![](Images/Loading_icon_15_10_2025.gif)
+I didn't do much but the Enemy 1 model and its animations are now finished and ready for import
 
 ## Main checklist
 * 
@@ -27,5 +24,5 @@ Today I started messing around with Terrain3D which is excellent for creating th
   1. Optimization (Occlusion culling, baked lighting, AO maps, Pathfinding and Animations) -- 0%
 
  ## Current priority and work in progress:
-Player model -- 0%
-Model of Enemy_1 -- 90%
+Player model -- 2%
+Model of Enemy_1 -- 100&
